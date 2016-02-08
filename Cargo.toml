@@ -1,0 +1,9 @@
+[package]
+name = "rusty-hash"
+version = "0.1.0"
+authors = ["James Short <james.short@alumni.duke.edu>"]
+
+[dependencies]
+
+rust-crypto = "0.2.34"
+argparse = "*"
